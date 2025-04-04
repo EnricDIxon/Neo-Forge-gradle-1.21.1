@@ -1,4 +1,17 @@
 {
   "item.awesomesnewb.bismuth": "Bismuth",
-  "item.awesomesnewb.raw_bismuth": "Raw Bismuth"
+  "item.awesomesnewb.raw_bismuth": "Raw Bismuth",
+
+  "block.awesomesnewb.bismuth_block": "Block Of Bismuth",
+  "block.awesomesnewb.bismuth_ore": "Bismuth Ore",
+  "block.awesomesnewb.light_block": "Light Block",
+
+  "block.awesomesnewb.industrial_iron_grate": "Industrial Iron Gate",
+
+
+
+
+  "creativetab.awesomesnewb.bismuth_items": "Bismuth Items",
+  "creativetab.awesomesnewb.bismuth_block": "Bismuth Blocks"
+
 }

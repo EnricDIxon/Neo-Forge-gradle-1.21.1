@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "awesomesnewb:bismuth_block",
+    "awesomesnewb:bismuth_ore",
+    "awesomesnewb:light_block",
+    "awesomesnewb:industrial_iron_grate"
+  ]
+}
